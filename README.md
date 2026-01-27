@@ -1,4 +1,4 @@
-# FEDS201 FRC robot "Scarlett"- 2025
+# FEDS201 FRC robot "Stingray"- 2025
 
 This repository contains the code for the FED201 FRC robot, STINGRAY, for 2025. The robot is designed to participate in the FIRST Robotics Competition (FRC). The code is written in Java and uses the Gradle build system.
 
